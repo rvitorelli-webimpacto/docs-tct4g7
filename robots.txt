@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-htm4p1.teamresiduals.com/sitemap.xml
